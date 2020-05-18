@@ -1,0 +1,140 @@
+Back End Developer
+========================
+1. Internet
+	- How does the internet work?
+	- What is HTTP
+	- Browsers and how they work
+	- DNS and how it works
+	- What is domain name
+	- What is hosting
+	
+2. Basics Front Knowledge
+	- HTML
+	- CSS
+	- Javascript
+
+3. OS and General Knowledge
+	- Terminal Usage
+	- How OSs work in general 
+	- Process Management
+	- Threads and Concurrency
+	- Basic Terminal Commands (grep, awk, sed, lsof, curl, wget, tail, head, less, find, ssh, kill)
+	- Memory management
+	- Interprocess Communication 
+	- I/O Management
+	- POSIX Basics (stdin, stdout, stderr, pipes)
+	- Basic Networking concepts
+	
+4. Learn Languages
+	- Javascript (must)
+	- PHP 
+	- Java 
+	- C#
+	- Python
+	- Ruby
+	- Rust
+	- Go
+
+6. Version Control System 
+	- Basic Usage of Git 
+	- Repo Hosting Services --> GitHub
+
+7. Relational Databases
+	- PostgreSQL (Must)
+	- MySql
+	- MariaDB
+	- Ms SQL
+	- Oracle
+
+8. More about databases
+	- ORMs
+	- ACID
+	- Transactions
+	- N+1 Problem
+	- Databases Normalization
+	- Indexes and how they work 
+	- NoSQL Databases 
+		- MongoDB
+
+9. Learn About APIs
+	- Authentication 
+		- OAuth
+		- Basic Authentication
+		- Token Authentication
+		- JWT 
+	- REST 
+	- JSON APIs
+
+7. Catching
+	- CDN
+	- Client Side
+	- Server Side 
+		- Redis
+
+8. Web Security Knowledge
+	a. 
+	- MD5 and why not to use it
+	- SHA Family
+	- scrypt 
+	- bcrypt
+	b. 
+	- HTTPS 
+	- Content Security Policy 
+	- CORS 
+	- SSL / TLS
+	- OWASP Security Risks
+	
+9. CI/CD
+
+10. Design and Development Principles 
+	- SOLID
+	- KISS
+	- DRY
+	- YAGNI
+	- Architectural Patterns 
+		- Monolitics Apps 
+		- Microservices
+		- SOA 
+		- Serverless
+
+11. Search Engine
+	- Elasticsearch
+
+12. Message Brokers
+	- RabbitMQ
+	
+13. Containerization vs Virtualization 
+	- Docker
+
+14. GraphQL
+	- Apollo
+	
+15. Web Socket
+
+16. Web Services 
+	- NginX
+	- Apache
+	- Caddy
+	- MS IIS
+	
+17. Building for scale
+	- Mitigation strategies
+		- Graceful
+		- Degradation
+		- Throtting
+		- Backpressure
+		- Loadshifting
+		- Circuit Breaker
+		
+	- Understand the Diff
+		- Instrumentation 
+		- Monitoring
+		- Telemetry
+	
+	- Migration Strategies 
+	- Horizontal vs Vertical scaling
+	- Building with observability in mind (Metrics logging and other observable items that could help you in debugging and helping the issues when things go wrong)
+	
+18. Keep Learning...............................
+	
+	
