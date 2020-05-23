@@ -27,7 +27,7 @@ Back End Developer
 	
 4. Learn Languages
 	- Javascript (must)
-	- PHP 
+	- PHP (basic)
 	- Java 
 	- C#
 	- Python
