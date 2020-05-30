@@ -41,7 +41,7 @@ Back End Developer
 
 7. Relational Databases
 	- PostgreSQL (Must)
-	- MySql
+	- MySql --> koneksi to mysql
 	- MariaDB
 	- Ms SQL
 	- Oracle
