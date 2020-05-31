@@ -27,7 +27,7 @@ Back End Developer
 	
 4. Learn Languages
 	- Javascript (must)
-	- PHP (basic) --> OOP acces modifier, destruct, inherrited
+	- PHP (basic) --> re-learn array.
 	- Java 
 	- C#
 	- Python
