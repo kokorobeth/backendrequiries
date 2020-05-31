@@ -34,6 +34,7 @@ Back End Developer
 	- Ruby
 	- Rust
 	- Go
+	- React Native
 
 6. Version Control System 
 	- Basic Usage of Git 
