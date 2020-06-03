@@ -28,7 +28,7 @@ Back End Developer
 4. Learn Languages
 	- Javascript (must)
 	- PHP (basic) --> re-learn array.
-	- Node.js --> installation
+	- Node.js --> connecting to database, mysql / xampp
 	- Java 
 	- C#
 	- Python
