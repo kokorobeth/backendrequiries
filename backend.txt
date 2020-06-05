@@ -27,8 +27,8 @@ Back End Developer
 	
 4. Learn Languages
 	- Javascript (must)
-	- PHP --> lear about upload image deeply.
-	- Node.js --> connecting to database, mysql / xampp
+	- PHP --> learn cookie
+	- Node.js
 	- Java 
 	- C#
 	- Python
