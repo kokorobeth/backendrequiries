@@ -27,7 +27,7 @@ Back End Developer
 	
 4. Learn Languages
 	- Javascript (must)
-	- PHP --> back to php basic
+	- PHP --> belajar function
 	- Node.js
 	- Java 
 	- C#
