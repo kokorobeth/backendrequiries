@@ -9,7 +9,7 @@ Back End Developer
 	- What is hosting
 	
 2. Basics Front Knowledge
-	- HTML
+	- HTML dasar2
 	- CSS
 	- Javascript
 
