@@ -137,6 +137,6 @@ Back End Developer
 	- Horizontal vs Vertical scaling
 	- Building with observability in mind (Metrics logging and other observable items that could help you in debugging and helping the issues when things go wrong)
 	
-18. Keep Learning............................... (belajar phyton dikit)
+18. Keep Learning............................... (lanjutan belajar phyton dikit)
 	
 	
